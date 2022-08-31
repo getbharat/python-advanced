@@ -1,0 +1,12 @@
+{
+    "name": "Bharat",
+    "age": 32,
+    "city": "Bangalore",
+    "previousCompanies": [
+        "cognizant",
+        "zycus",
+        "cerner"
+    ],
+    "currentCompany": "Thomson Reuters",
+    "isMarried": true
+}
